@@ -42,6 +42,10 @@ testem.log
 Thumbs.db
 
 # npm packages the user will have to creat them using npm
+# package.json
+# package-lock.json
+# tsconfig.json
+# tslint.json
 /e2e
 /.idea
 /public
@@ -49,8 +53,4 @@ Thumbs.db
 .angular-cli.json
 .editorconfig
 karma.conf.js
-#package.json
-package-lock.json
-tsconfig.json
-tslint.json
 protractor.conf.js
