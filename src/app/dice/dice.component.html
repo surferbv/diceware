@@ -1,0 +1,28 @@
+<div class="card bg-light mb-3" style="max-width: 40rem;">
+  <div class="card-header">
+    <h4 class="card-title">{{title}}</h4>
+    <button (click)="rollFiveDice()" type="button" class="btn btn-primary">Roll</button>
+    <button (click)="getSetPassphrase()" type="button" class="btn btn-success">Get Phrase</button>
+    <button (click)="resetRoll()" type="button" class="btn btn-danger">Reset</button>
+  </div>
+  <div class="card-body" style="height: 150px">
+    <!--<p class="card-text">{{dice}} {{passphrase}}</p>-->
+    <table class="table table-hover table-bordered">
+      <thead class="thead-dark">
+      <tr>
+        <th>Dice</th>
+        <th>Phrase</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+        <td class="table-info" height="50" width="100">{{dice}}</td>
+        <td class="table-success" height="50" width="100">{{passphrase}}</td>
+      </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+
+
