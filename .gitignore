@@ -46,11 +46,11 @@ Thumbs.db
 # package-lock.json
 # tsconfig.json
 # tslint.json
-/e2e
-/.idea
-/public
-/node_modules
-.angular-cli.json
-.editorconfig
-karma.conf.js
-protractor.conf.js
+# /e2e
+# .angular-cli.json
+# .editorconfig
+# karma.conf.js
+# protractor.conf.js
+ /.idea
+ /public
+ /node_modules
