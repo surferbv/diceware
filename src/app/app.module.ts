@@ -1,3 +1,12 @@
+/*====================================================================================================================
+ * File:
+ *   app.module.ts
+ *
+ * Comments:
+ *   This module contains all the imports and providers for the components to function properly. The following
+ *   imports and providers are added, HttpClientModule, DataService, and PeerMessageService
+ *
+ *====================================================================================================================*/
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
