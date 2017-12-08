@@ -5,10 +5,10 @@ This application implements the Diceware method in picking passphrases using som
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.4, NodeJS v8.9.2, NPM 1.5.4, and the latest CDN's of Bootstrap.
 
 
-## Diceware Demonstration
+## Diceware demonstration
 Click on this YouTube link [Diceware](https://www.youtube.com/watch?v=rlnDk_wzl18) to view a demonstration of the application. 
 
-## Initial Setup and Running The Development server
+## Initial setup and running development server
 
 1. Install NodeJS v8.9.2 which should come with NPM 1.5.4 via [NodeJS](https://nodejs.org/en/download/)
 2. Install Angualr-CLI `npm install @angular/cli`
@@ -16,6 +16,10 @@ Click on this YouTube link [Diceware](https://www.youtube.com/watch?v=rlnDk_wzl1
 4. Run `ng serve --open` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 Note: If you are running it for the first time you may need to run `npm install` in the project directory in order for it to work.
+
+## Main project file description
+### First file
+### Second File
 
 ## Code scaffolding
 
