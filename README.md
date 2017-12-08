@@ -18,8 +18,10 @@ Click on this YouTube link [Diceware](https://www.youtube.com/watch?v=rlnDk_wzl1
 Note: If you are running it for the first time you may need to run `npm install` in the project directory in order for it to work.
 
 ## Main project file description
-### First file
-### Second File
+### 1
+#### 1.1
+##### 1.1.1
+### 2
 
 ## Code scaffolding
 
