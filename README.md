@@ -17,11 +17,23 @@ Click on this YouTube link [Diceware](https://www.youtube.com/watch?v=rlnDk_wzl1
 
 Note: If you are running it for the first time you may need to run `npm install` in the project directory in order for it to work.
 
-## Main project file description
-### 1
-#### 1.1
-##### 1.1.1
-### 2
+## Project file description
+
+### Source Files
+
+### Auxilaray Files
+diceware-complete.json: 
+This file is located in the `../src/assets/data/` folder and should not be moved in order to the application to function properly. If you do move the locaiton of this file you will need to change the path the the `data.service.ts` refers to in the code.
+
+Bootstrap CDN:
+Ensure that you have a proper internet connection as the applicaiton refers to the following cdns. 
+
+https://bootswatch.com/4/sandstone/bootstrap.min.css
+https://code.jquery.com/jquery-3.2.1.slim.min.js
+https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js
+https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js
+
+NOTE: These links are located in the `index.html` file.
 
 ## Code scaffolding
 
