@@ -22,10 +22,10 @@ Note: If you are running it for the first time you may need to run `npm install`
 ### Source Files
 
 ### Auxilaray Files
-diceware-complete.json: 
+#### diceware-complete.json: 
 This file is located in the `../src/assets/data/` folder and should not be moved in order to the application to function properly. If you do move the locaiton of this file you will need to change the path the the `data.service.ts` refers to in the code.
 
-Bootstrap CDN:
+####Bootstrap CDN:
 Ensure that you have a proper internet connection as the applicaiton refers to the following cdns. 
 
 https://bootswatch.com/4/sandstone/bootstrap.min.css
