@@ -1,6 +1,6 @@
 # Diceware
 
-This application implements the Diceware method in picking passphrases using some of the software architecture and design concepts covered in CS575. It was implemented using Angular 5 and Boostrap to demonstrate some of the fundamental software architecture concepts and design patterns such as MVC, services, observables, etc...
+This application implements the [Diceware](http://world.std.com/~reinhold/diceware.html) method in picking passphrases using some of the software architecture and design concepts covered in CS575. It was implemented using Angular 5 and Boostrap to demonstrate some of the fundamental software architecture concepts and design patterns such as MVC, services, observables, etc...
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.4, NodeJS v8.9.2, NPM 1.5.4, and the latest CDN's of Bootstrap.
 
