@@ -1,10 +1,21 @@
 # Diceware
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.4.
+This application implements the Diceware method in picking passphrases using some of the software architecture and design concepts covered in CS575. It was implemented using Angular 5 and Boostrap to demonstrate some of the fundamental software architecture concepts and design patterns such as MVC, services, observables, etc...
 
-## Development server
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.4, NodeJS v8.9.2, NPM 1.5.4, and the latest CDN's of Bootstrap.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+## Diceware Demonstration
+Click on this YouTube link [Diceware](https://www.youtube.com/watch?v=rlnDk_wzl18) to view a demonstration of the application. 
+
+## Initial Setup and Running The Development server
+
+1. Install NodeJS v8.9.2 which should come with NPM 1.5.4 via [NodeJS](https://nodejs.org/en/download/)
+2. Install Angualr-CLI `npm install @angular/cli`
+3. Clone the project to your local computer using `git clone https://github.com/surferbv/diceware` in your terminal or command prompt.
+4. Run `ng serve --open` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+Note: If you are running it for the first time you may need to run `npm install` in the project directory in order for it to work.
 
 ## Code scaffolding
 
