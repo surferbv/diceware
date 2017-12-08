@@ -4,7 +4,6 @@ This application implements the Diceware method in picking passphrases using som
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.4, NodeJS v8.9.2, NPM 1.5.4, and the latest CDN's of Bootstrap.
 
-
 ## Diceware demonstration
 Click on this YouTube link [Diceware](https://www.youtube.com/watch?v=rlnDk_wzl18) to view a demonstration of the application. 
 
